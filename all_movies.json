@@ -38,5 +38,18 @@
 
 			}
 		]
+	},
+	{
+		"categoryId":3,
+		"categoryTitle":"Quran-e-Pak Para 28",
+		"categoryItemList":[
+			{
+				"fileUrl":"https://myustaadg.com/wp-content/uploads/2021/10/The-Best-Workout-For-Body-Fitness-_x264.mp4",
+				"id": 1,
+				"imageURL":"https://myustaadg.com/wp-content/uploads/2021/10/Excel-Specifice-Page-Numbering.png",
+				"videoName":"Para 28 Surah 1"
+
+			}
+		]
 	}
 ]
