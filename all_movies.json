@@ -1,0 +1,56 @@
+[
+	{
+		categoryId:1,
+		categoryTitle:"Quran-e-Pak Para 30",
+		categoryItemList:[
+			{
+				fileUrl:"",
+				id: 1,
+				imageURL:"",
+				videoName:"Para 30 Surah 1"
+
+			},
+			{
+				fileUrl:"",
+				id: 2,
+				imageURL:"",
+				videoName:"Para 30 Surah 2"
+
+			},
+			{
+				fileUrl:"",
+				id: 3,
+				imageURL:"",
+				videoName:"Para 30 Surah 1"
+
+			}
+		]
+	},
+	{
+		categoryId:1,
+		categoryTitle:"Quran-e-Pak Para 29",
+		categoryItemList:[
+			{
+				fileUrl:"",
+				id: 1,
+				imageURL:"",
+				videoName:"Para 29 Surah 1"
+
+			},
+			{
+				fileUrl:"",
+				id: 2,
+				imageURL:"",
+				videoName:"Para 29 Surah 2"
+
+			},
+			{
+				fileUrl:"",
+				id: 3,
+				imageURL:"",
+				videoName:"Para 29 Surah 1"
+
+			}
+		]
+	}
+]
